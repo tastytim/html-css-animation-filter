@@ -39,7 +39,7 @@
 }
 
 .ex-4-square:hover {
-  scale: 0%;
+  transform:scale(0);
 }
 
 .ex-5-square {
@@ -51,10 +51,10 @@
 }
 
 .ex-5-square:hover {
-  scale: 170%;
+  transform: scale(170%);
 }
 .ex-5-square:active {
-  scale: 30%;
+  transform:scale(30%);
 }
 
 .ex-6-img,
